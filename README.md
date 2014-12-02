@@ -1,0 +1,1 @@
+This is a program that projects a 3D world onto the screen. All surfaces are saved as triangles. W, A, S, D and the mouse are used to move and look around, while the number keys are used to change properties of the world. No libraries were used in the making of this simulation and all vector and matrix math was coded into the program.
